@@ -1,14 +1,12 @@
-body{
-    width: 100%;
-}
-.container{
-    width: 1380px;
-}
-.prvKvadrat{
-    margin-top: 20px;
+.prvaKocka{
+    flex-wrap: nowrap;
+    margin-top: 5px;
 }
 
+.boxche{
+    margin-left: 4px;
+}
 
 .textTwo{
-    margin-right: 7px;
-}
+    margin-right: 5px;
+} 
